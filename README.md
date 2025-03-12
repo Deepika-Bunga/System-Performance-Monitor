@@ -1,6 +1,6 @@
 # 🖥️ System Performance Monitor 🚀
 
-A real-time system monitoring tool that tracks **CPU, RAM, and Disk usage** dynamically. The data is displayed in an **interactive graph**, and a final report is saved as an image.
+A Python based real-time system monitoring tool that tracks **CPU, RAM, and Disk usage** dynamically. The data is displayed in an **interactive graph**, and a final report is saved as an image.
 
 ## 📌 Features
 ✅ **Real-time Monitoring** – Continuously tracks **CPU, RAM, and Disk usage**.  
@@ -15,6 +15,6 @@ Make sure you have **Python 3+** installed. Then, install the required libraries
 ```sh
 pip install psutil matplotlib
 
-**To run the program**
+To run the program
 ```sh
 python monitor.py
